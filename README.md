@@ -9,7 +9,7 @@ npm i use-matching-media-queries
 
 ```ts
 import React from 'react'
-import { useMatchingMediaQueries } from 'matching-media-queries.hook'
+import { useMatchingMediaQueries } from 'use-matching-media-queries'
 
 const ComponentForSmallDevice = () => {
   const isSmallDevice = useMatchingMediaQueries('(min-width: 576px)')

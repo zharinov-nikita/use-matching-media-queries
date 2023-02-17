@@ -1,1 +1,1 @@
-export * from './matching-media-queries.mock'
+export * from './matching-media-queries.hook'

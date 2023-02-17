@@ -1,6 +1,6 @@
 {
   "name": "use-matching-media-queries",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A hook for the react library to detect media query matches.",
   "main": "./dist/index.js",
   "scripts": {
