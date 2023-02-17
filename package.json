@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/zharinov-nikita/use-matching-media-queries.git"
   },
-  "keywords": [],
+  "keywords": ["react", "react-hooks", "match-media", "media-queries"],
   "author": "zharinov-nikita",
   "license": "ISC",
   "bugs": {
